@@ -98,6 +98,6 @@ For major changes, you are welcome to open an issue to discuss what you would li
 **Drop a star ⭐ if you find this project interesting!**
 
 <p align="center" width="100%">
-   Made with ❤️ in 🇮🇳 By Shivam Sahu   
+   Made with ❤️ in 🇮🇳 By Astha Singhal   
 </p>
 
